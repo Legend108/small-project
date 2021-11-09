@@ -1,0 +1,5 @@
+{
+    "clientId": "google client id",
+    "clientSecret": "google oauth2 client secret: https://cloud.console.google.com",
+    "cbUrl": "callback url"
+}
